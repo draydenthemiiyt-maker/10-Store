@@ -1,22 +1,2 @@
 <?xml version="1.0" encoding="utf-8"?>
-<apps>
-  <app id="TetProjects.UniversalStore">
-    <name>UniversalStore</name>
-    <uploader>draydenyt</uploader>
-    <version>1.0.0.0</version>
-    <publisher>CN=Tetify</publisher>
-    <publisherDisplayName>Tetify</publisherDisplayName>
-    <icon>placeholder.svg</icon>
-    <description>An 10Store fork that tries to continue its purpose, but without 8.x apps and with improvements</description>
-    <package>https://raw.githubusercontent.com/draydenthemiiyt-maker/MicrosoftStoreUWP-Revived/refs/heads/main/files/TetProjects.UniversalStore/package.appx</package>
-    <Platform>Windows.Universal</Platform>
-    <PlatformMinVersion>10.0.10240.0</PlatformMinVersion>
-    <PlatformMaxVersionTested>10.0.19041.0</PlatformMaxVersionTested>
-    <Capability>internetClient</Capability>
-    <AppTileHex>transparent</AppTileHex>
-    <Lang>EN-US</Lang>
-    <Lang>EN-GB</Lang>
-    <Lang/>
-    <ProcessorArchitecture>neutral</ProcessorArchitecture>
-  </app>
-</apps>
+<apps/>
