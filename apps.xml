@@ -1,23 +1,2 @@
 <?xml version="1.0" encoding="utf-8"?>
-<apps>
-  <app id="Microsoft.IE.12">
-    <name>Internet Explorer</name>
-    <uploader>draydenyt</uploader>
-    <version>12.0.0.0</version>
-    <publisher>CN=Drayden</publisher>
-    <publisherDisplayName>DraydenYT</publisherDisplayName>
-    <icon>placeholder.svg</icon>
-    <description>Internet Explorer</description>
-    <package>https://raw.githubusercontent.com/draydenthemiiyt-maker/MicrosoftStoreUWP-Revived/refs/heads/main/files/Microsoft.IE.12/package.appx</package>
-    <Platform>Windows.Universal</Platform>
-    <PlatformMinVersion>10.0.10240.0</PlatformMinVersion>
-    <PlatformMaxVersionTested>10.0.19041.0</PlatformMaxVersionTested>
-    <Capability>internetClient</Capability>
-    <Capability>backgroundMediaPlayback</Capability>
-    <AppTileHex>#0078D7</AppTileHex>
-    <Lang>EN-GB</Lang>
-    <Lang>RU</Lang>
-    <Lang>ES</Lang>
-    <ProcessorArchitecture>neutral</ProcessorArchitecture>
-  </app>
-</apps>
+<apps/>
