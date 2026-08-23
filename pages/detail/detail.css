@@ -1,0 +1,87 @@
+.app-section {
+    background-color: #f2f2f2;
+    padding: 20px;
+}
+
+.icon {
+    float: left;
+    width: 130px;
+    height: 130px;
+    margin-right: 24px;
+    background-color: #00c300;
+}
+
+/* 2. Create a block for the details next to the icon */
+.app-details {
+    overflow: hidden; /* This forces the div to fill the remaining space next to the float */
+}
+
+/* Typography matching image_1e8db8.png */
+.title {
+    font-size: 24px;
+    font-weight: normal;
+    color: #000000;
+    margin: 0 0 4px 0;
+}
+
+.developer {
+    font-size: 13px;
+    color: #666666;
+    margin: 0 0 6px 0;
+}
+
+.rating {
+    font-size: 14px;
+    margin: 0 0 16px 0;
+}
+
+/* Text-based Buttons (Share & More) */
+.link-button {
+    background: transparent;
+    border: none;
+    color: #0078d7;
+    padding: 0;
+    font-size: 14px;
+    cursor: pointer;
+    text-align: left;
+    display: block;
+    margin-bottom: 16px;
+}
+
+.link-button:hover {
+    text-decoration: underline;
+}
+
+#decShort {
+    font-size: 14px;
+    color: #000000;
+    margin: 0 0 12px 0;
+}
+
+.ownership {
+    font-size: 12px;
+    color: #666666;
+    margin: 0 0 16px 0;
+}
+
+/* Spacer Line */
+.spacer {
+    border: none;
+    border-top: 1px solid #dcdcdc;
+    margin: 16px 0;
+}
+
+/* Primary Install Button */
+.primary-button {
+    background-color: #0078d7;
+    color: #ffffff;
+    border: none;
+    padding: 8px 36px;
+    font-size: 14px;
+    cursor: pointer;
+    display: inline-block;
+}
+
+.primary-button:hover {
+    background-color: #005a9e;
+}
