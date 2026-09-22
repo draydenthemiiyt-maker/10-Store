@@ -143,7 +143,7 @@ DrayWaves is just for you! And it Works on Windows 10 Mobile too!
 		<featured>true</featured>
 		<description/>
 		<package>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/1773704804_Lumia-Camera-5.0.2.54.appx</package>
-		<TargetDeviceFamilyName>Windows.Universal</TargetDeviceFamilyName>
+		<TargetDeviceFamilyName>Windows.Mobile</TargetDeviceFamilyName>
 		<MinVersion>10.10240.0</MinVersion>
 	</app>
 	<app id="smiling-bag-clicker-for-windows-8-1">
