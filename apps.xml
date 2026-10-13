@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <data>
   <quotes>
-    <quote>Welcome to the all new 10Store!</quote>
+    <quote>A New 10Store is coming your way.....</quote>
   </quotes>
   <categories>
     <category title="Featured" type="featured" />
@@ -193,41 +193,41 @@ Browse your documents faster with navigation buttons (back, forward, up), thumbn
 Manage your online files by logging into your OneDrive account.
 
 App features:
-â€¢ Dual-pane interface to easily copy, move, create, rename or delete files and folders.
-â€¢ Opening and extracting files from archives (RAR, ZIP, 7z, ZipX, ISO, BZIP2, GZIP, TAR, ARJ, XZ, CAB...).
-â€¢ Built-in viewer and media player (doc, docx, rtf, jpeg, png, bmp, gif, tiff, mp3, wma, m4a, aac, wav, ac3, avi, 3gp, wmv, mp4, m4v, mov).
-â€¢ Adding folders to Favorites and pinning them to the Start Screen.
-â€¢ Quick and convenient browsing of files and folders.
-â€¢ Audio playback in the background.
-â€¢ Share file support to other apps.
-â€¢ Search for files and folders.
-â€¢ Snapped mode support.
-â€¢ Thumbnail previews.
-â€¢ Video and image preview.
-â€¢ Bulk operations.
-â€¢ Support for multiple selections.
-â€¢ Themes and backgrounds, Bing wallpaper.
-â€¢ OneDrive, Dropbox, Google Drive, Yandex Disk access.
-â€¢ FTP connections support.
-â€¢ Operating with the system Clipboard (copying to the Windows Explorer).
-â€¢ Autorun when inserting portable devices and flash drives.
-â€¢ Hotkey commands.
+ Dual-pane interface to easily copy, move, create, rename or delete files and folders.
+ Opening and extracting files from archives (RAR, ZIP, 7z, ZipX, ISO, BZIP2, GZIP, TAR, ARJ, XZ, CAB...).
+ Built-in viewer and media player (doc, docx, rtf, jpeg, png, bmp, gif, tiff, mp3, wma, m4a, aac, wav, ac3, avi, 3gp, wmv, mp4, m4v, mov).
+ Adding folders to Favorites and pinning them to the Start Screen.
+ Quick and convenient browsing of files and folders.
+ Audio playback in the background.
+ Share file support to other apps.
+ Search for files and folders.
+ Snapped mode support.
+ Thumbnail previews.
+ Video and image preview.
+ Bulk operations.
+ Support for multiple selections.
+ Themes and backgrounds, Bing wallpaper.
+ OneDrive, Dropbox, Google Drive, Yandex Disk access.
+ FTP connections support.
+ Operating with the system Clipboard (copying to the Windows Explorer).
+ Autorun when inserting portable devices and flash drives.
+ Hotkey commands.
 
 
 Release notes:
 04/10/2018
-â€¢ This version is targeted for Creators Update.
-â€¢ Added app window transparency (aka Fluent).
-â€¢ Added compact overlay mode for image/audio/video viewer (aka Picture in picture).
-â€¢ Added equalizer to audio player.
-â€¢ Added support for Google Drive and Yandex Disk.
-â€¢ Added support for FTP connections.
+ This version is targeted for Creators Update.
+ Added app window transparency (aka Fluent).
+ Added compact overlay mode for image/audio/video viewer (aka Picture in picture).
+ Added equalizer to audio player.
+ Added support for Google Drive and Yandex Disk.
+ Added support for FTP connections.
 
 11/15/2016
-â€¢ Xbox One support.
-â€¢ Comic Book Archive support (.cbz, .cbr)
-â€¢ Support for background images in the GIF format.
-â€¢ UI improvements.
+ Xbox One support.
+ Comic Book Archive support (.cbz, .cbr)
+ Support for background images in the GIF format.
+ UI improvements.
 
 12/31/2015
 Metro Commander is available for Windows 10 now.
@@ -309,14 +309,14 @@ Now one app, one license, a uniform design and functionality can be had on all t
 
 
 Distinctive features:
-â€¢ High-speed archiving and unpacking.
-â€¢ Incorporation of Continuum technology.
-â€¢ Ability to decrypt archives using Windows Hello.
-â€¢ Play music and video, display images and text files directly in the app.
-â€¢ Send files by e-mail, post them on social networks, or share them on OneDrive and DropBox.
-â€¢ Select the compression level and password protection.
-â€¢ Print documents and images.
-â€¢ One purchase gives you a license that is valid for all of your Windows 10 device.
+ High-speed archiving and unpacking.
+ Incorporation of Continuum technology.
+ Ability to decrypt archives using Windows Hello.
+ Play music and video, display images and text files directly in the app.
+ Send files by e-mail, post them on social networks, or share them on OneDrive and DropBox.
+ Select the compression level and password protection.
+ Print documents and images.
+ One purchase gives you a license that is valid for all of your Windows 10 device.
 
 8 Zip knows over 25 languages.
 
@@ -328,20 +328,20 @@ To purchase a corporate version of the program, please contact us by e-mail: sal
 
 
 Technical specifications:
-â€¢ Create archives: zip, 7z, tar, gzip, bzip2, xz.
-â€¢ Open archives: rar, zip, 7z, zipx, iso, bzip2, gzip, tar, arj, cab.
-â€¢ Built-in viewer and player.
-â€¢ View images: jpeg, png, bmp, gif, tiff.
-â€¢ Play music: mp3, wma, flac, m4a, aac, wav, ac3.
-â€¢ Watch video: avi, 3gp, wmv, mp4, m4v, mov, mkv.
-â€¢ Open and view text documents: docx, doc, rtf, txt.
-â€¢ Support for the latest archive formats: RAR5 and 7z.
-â€¢ Various compression methods: Deflate, Deflate64, BZip, LZMA, PPMd.
-â€¢ Create password-protected archives: 256-bit AES encryption.
-â€¢ Ability to open encrypted files through Windows Hello and Microsoft Passport technology.
-â€¢ Support for decompressing multivolume archives: zip, rar, 7z.
-â€¢ Support for Drag&amp;Drop technology.
-â€¢ Support for SD cards.</description>
+ Create archives: zip, 7z, tar, gzip, bzip2, xz.
+ Open archives: rar, zip, 7z, zipx, iso, bzip2, gzip, tar, arj, cab.
+ Built-in viewer and player.
+ View images: jpeg, png, bmp, gif, tiff.
+ Play music: mp3, wma, flac, m4a, aac, wav, ac3.
+ Watch video: avi, 3gp, wmv, mp4, m4v, mov, mkv.
+ Open and view text documents: docx, doc, rtf, txt.
+ Support for the latest archive formats: RAR5 and 7z.
+ Various compression methods: Deflate, Deflate64, BZip, LZMA, PPMd.
+ Create password-protected archives: 256-bit AES encryption.
+ Ability to open encrypted files through Windows Hello and Microsoft Passport technology.
+ Support for decompressing multivolume archives: zip, rar, 7z.
+ Support for Drag&amp;Drop technology.
+ Support for SD cards.</description>
     <package>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/BooStudioLLC.8ZipLite_1.2.103.1000_x86__b6e429xa66pga-1775491170.Appx</package>
     <screenshot1>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/8zip1.png</screenshot1>
     <screenshot2>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/8zip2.png</screenshot2>
@@ -354,21 +354,6 @@ Technical specifications:
     <mobileCapable>false</mobileCapable>
     <win81compatible>false</win81compatible>
     <TargetDeviceFamilyName>Windows.Desktop</TargetDeviceFamilyName>
-    <MinVersion>10.10240.0</MinVersion>
-  </app>
-  <app id="ray-i-or-indows-10">
-    <name>DrayAi</name>
-    <version>3.3.0.0</version>
-    <icon>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/Square150x150Logo.scale-400-1775753552.png</icon>
-    <publisher>DraydenYT</publisher>
-    <featured>false</featured>
-    <description>(This app is currently broken) DrayAi is an Ai Client for Windows 10 &amp; Windows 10 Mobile, Powered by both Gemini &amp; ChatGPT Apis, Bringing AI to the UWP Platform</description>
-    <package>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/DrayAi_3.3.0.0_AnyCPU-1775753551.appx</package>
-    <screenshot1>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/Untitled-1775753553.png</screenshot1>
-    <pcCapable>true</pcCapable>
-    <mobileCapable>true</mobileCapable>
-    <win81compatible>false</win81compatible>
-    <TargetDeviceFamilyName>Windows.Universal</TargetDeviceFamilyName>
     <MinVersion>10.10240.0</MinVersion>
   </app>
   <app id="iano-ime-ro">
@@ -511,7 +496,7 @@ Technical specifications:
     <MinVersion>10.10240.0</MinVersion>
   </app>
   <app id="lashlight">
-    <name>Flashlightâº</name>
+    <name>Flashlight</name>
     <version>1.2.5.0</version>
     <icon>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/asparionflashlight_img-1775848504.png</icon>
     <publisher>Asparion</publisher>
@@ -529,7 +514,7 @@ Technical specifications:
     <MinVersion>10.10240.0</MinVersion>
   </app>
   <app id="lashlight">
-    <name>Flashlightâº for ARM</name>
+    <name>Flashlight for ARM</name>
     <version>1.2.5.0</version>
     <icon>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/asparionflashlight_img-1775848504.png</icon>
     <publisher>Asparion</publisher>
@@ -774,20 +759,6 @@ Create original artwork, turn photos into beautiful paintings, or choose an acti
     <TargetDeviceFamilyName>Windows.Desktop</TargetDeviceFamilyName>
     <MinVersion>10.10240.0</MinVersion>
   </app>
-  <app id="ray-for-windows-8-1">
-    <name>DrayAI Classic</name>
-    <version>1.0.0.0</version>
-    <icon>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/SmallTile.scale-200-1777988163.png</icon>
-    <publisher>DraydenYT</publisher>
-    <featured>true</featured>
-    <description>(This app is currently broken) DrayAI Metro is an Ai Client for Windows 8.1, Powered by both Gemini &amp; ChatGPT Apis</description>
-    <package>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/Drayai8.1EN-1777988161.appx</package>
-    <pcCapable>true</pcCapable>
-    <mobileCapable>false</mobileCapable>
-    <win81compatible>true</win81compatible>
-    <TargetDeviceFamilyName>Windows.Desktop</TargetDeviceFamilyName>
-    <MinVersion>6.3.0</MinVersion>
-  </app>
   <app id="ytube-for-indows-hone">
     <name>myTube</name>
     <version>35.39.0</version>
@@ -944,11 +915,11 @@ Create original artwork, turn photos into beautiful paintings, or choose an acti
     ****** JOIN 750 MILLION PLAYERS WORLDWIDE! *****
     Race with the Minions in the award-winning fan-favourite endless runner, Despicable Me: Minion Rush! Collect bananas as you jump, roll, dodge and scramble against others in fun-filled, fast-paced missions! Run as Carl, Jerry and Dave, get awesome costumes, play exciting mini-games and explore locations inspired by the Despicable Me movies!
     ALL THE FUN OF DESPICABLE ME!
-    â€¢ Run through iconic locations from the movie and discover secret areas
-    â€¢ Enjoy unexpected Minion moments, like becoming a MEGA MINION and riding the FLUFFY UNICORN or GRUâ€™S ROCKET
-    â€¢ Use hilarious weapons and power-ups while competing with other players in Minion Races
-    â€¢ Battle exclusive villains such as Vector, El Macho and the Villaintriloquist
-    â€¢ Experience original animations, voice-overs and state-of-the-art 3D graphics created just for the game
+     Run through iconic locations from the movie and discover secret areas
+     Enjoy unexpected Minion moments, like becoming a MEGA MINION and riding the FLUFFY UNICORN or GRUâ€™S ROCKET
+     Use hilarious weapons and power-ups while competing with other players in Minion Races
+     Battle exclusive villains such as Vector, El Macho and the Villaintriloquist
+     Experience original animations, voice-overs and state-of-the-art 3D graphics created just for the game
     ______________________________________________
     You can download and play this game for free. Please be informed that it also allows you to play using virtual currency, which can be acquired as you progress through the game, or by deciding to watch certain advertisements, or paying with real money. In-app purchases range from Â£0.79 to Â£38.59. You can disable in-app purchases by adjusting your deviceâ€™s settings.
     Languages: English, Arabic, French, German, Indonesian, Italian, Japanese, Korean, Portuguese, Russian, Simplified Chinese, Spanish, Thai, Traditional Chinese, Turkish
@@ -965,10 +936,10 @@ Create original artwork, turn photos into beautiful paintings, or choose an acti
     Terms of Use: http://www.gameloft.co.uk/conditions/
     End-User License Agreement: http://www.gameloft.com/eula/?lang=en
     If you install this game, you understand and agree that Microsoft may share your User ID and gamertag with the game publisher to enable game features. This game includes multiplayer features with online interactions that are not subject to Xbox Live Family Settings. These features may include the following interactions with other players online:
-    â€¢ Send and receive game invites;
-    â€¢ Play cooperatively or head-to-head;
-    â€¢ Send and receive in-game text messages;
-    â€¢ Communicate via in-game voice chat.
+     Send and receive game invites;
+     Play cooperatively or head-to-head;
+     Send and receive in-game text messages;
+     Communicate via in-game voice chat.
     Please see the publisherâ€™s site http://www.gameloft.com/privacy-notice/windows/ for information on settings it may enable.</description>
     <package>https://github.com/draydenthemiiyt-maker/10-Store/releases/download/APPX/GAMELOFTSA.DespicableMeMinionRush_4.1.4.1_x86__0pp20fcewvvtj.Appx</package>
     <screenshot1>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/minionrush_screenshot1-1778068189.png</screenshot1>
@@ -1101,7 +1072,7 @@ Create original artwork, turn photos into beautiful paintings, or choose an acti
     <icon>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/apps.33373.9007199266245764.0ba407dd-2796-4551-9fb7-e1e39a3b36eb-1778670653.png</icon>
     <publisher>CNN INTERACTIVE GROUP, Inc.,migbrunluz</publisher>
     <featured>true</featured>
-    <description>CNN connects you to the world, wherever you are. Stay informed with the latest headlines and original stories from around the globe. Follow up-to-the-minute reporting with breaking news and video. Lead the conversation by sharing todayâ€™s news and dig deeper into the stories that matter most to you. â€¢ Get breaking news and follow stories as they develop. â€¢ Go beyond the surface with international, politics, opinion, tech and entertainment stories and more. â€¢ Contribute your story or opinion to CNN iReport by uploading photos and video directly from your app. Follow other iReporters and see stories from their point of view. â€¢ Read the top headlines on the go with the CNN Live Tile. â€¢ Choose the font size that most appeals to you. Have questions or feedback on the CNN App? E-mail us at WindowsTablet@cnn.com. We are always looking for suggestions on how to provide the best experience possible for you. Patched with NewRetiled, credit to migbrunluz.</description>
+    <description>CNN connects you to the world, wherever you are. Stay informed with the latest headlines and original stories from around the globe. Follow up-to-the-minute reporting with breaking news and video. Lead the conversation by sharing todayâ€™s news and dig deeper into the stories that matter most to you.  Get breaking news and follow stories as they develop.  Go beyond the surface with international, politics, opinion, tech and entertainment stories and more.  Contribute your story or opinion to CNN iReport by uploading photos and video directly from your app. Follow other iReporters and see stories from their point of view.  Read the top headlines on the go with the CNN Live Tile.  Choose the font size that most appeals to you. Have questions or feedback on the CNN App? E-mail us at WindowsTablet@cnn.com. We are always looking for suggestions on how to provide the best experience possible for you. Patched with NewRetiled, credit to migbrunluz.</description>
     <package>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/588E6FFA.CNNAppforWindows_1.2.3.0_neutral__cs8eyncph15zy-1778670650.appx</package>
     <screenshot1>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/Screenshot-1-1778670654.png</screenshot1>
     <screenshot2>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/Screenshot-2-1778670655.png</screenshot2>
@@ -1220,21 +1191,6 @@ Create original artwork, turn photos into beautiful paintings, or choose an acti
     <TargetDeviceFamilyName>Windows.Desktop</TargetDeviceFamilyName>
     <MinVersion>6.3.0</MinVersion>
   </app>
-  <app id="pload-your-apps-to-10-tore">
-    <name>Upload your apps to 10Store!</name>
-    <version>10.2.8.2026.1705.14</version>
-    <icon>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/StoreLogo.scale-100-1779045727.png</icon>
-    <publisher>DraydenYT</publisher>
-    <featured>false</featured>
-    <description />
-    <package>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/UploadApps10STR_1.5.0.0_AnyCPU-1779045726.appx</package>
-    <screenshot1>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/SplashScreen.scale-100-1779045728.png</screenshot1>
-    <pcCapable>true</pcCapable>
-    <mobileCapable>false</mobileCapable>
-    <win81compatible>true</win81compatible>
-    <TargetDeviceFamilyName>Windows.Desktop</TargetDeviceFamilyName>
-    <MinVersion>6.3.0</MinVersion>
-  </app>
   <app id="ode-riter">
     <name>Code Writer</name>
     <version>4.2.42.0(1709+)</version>
@@ -1261,7 +1217,7 @@ Create original artwork, turn photos into beautiful paintings, or choose an acti
     <publisher>Shazam Entertainment Ltd</publisher>
     <featured>false</featured>
     <description>(SERVER DOES NOT WORK)
-    Shazam is the best way to identify music around you. Tap the Shazam button to instantly identify, explore, buy and share. With Shazam you can: â€¢ Recognise songs and tracks wherever you are. Even offline! â€¢ Buy tracks from Windows Store â€¢ Instantly discover more about the song: get lyrics and see music videos and performances on YouTube â€¢ Share your discoveries to Facebook, Messenger, SMS, Email and more â€¢ Ask Cortana to â€œShazam thisâ€ and instantly start identifying music around you With Shazam Live Tiles you can: â€¢ View your most recent Shazam â€¢ Shazam straight from the Start Screen Use Shazam as much as you like â€“ itâ€™s unlimited. ===</description>
+    Shazam is the best way to identify music around you. Tap the Shazam button to instantly identify, explore, buy and share. With Shazam you can:  Recognise songs and tracks wherever you are. Even offline!  Buy tracks from Windows Store  Instantly discover more about the song: get lyrics and see music videos and performances on YouTube  Share your discoveries to Facebook, Messenger, SMS, Email and more  Ask Cortana to â€œShazam thisâ€ and instantly start identifying music around you With Shazam Live Tiles you can:  View your most recent Shazam  Shazam straight from the Start Screen Use Shazam as much as you like â€“ itâ€™s unlimited. ===</description>
     <package>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/ShazamEntertainmentLtd.Shazam_4.7.9.0_neutral_~_pqbynwjfrbcg4.AppxBundle</package>
     <screenshot1>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/screenshot-1-1779152033.png</screenshot1>
     <screenshot2>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/screenshot-2-1779152035.png</screenshot2>
@@ -1312,7 +1268,7 @@ Create original artwork, turn photos into beautiful paintings, or choose an acti
     <icon>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/SmallLogo.targetsize-256-1779412233.png</icon>
     <publisher>ZeptoLab UK Limited</publisher>
     <featured>true</featured>
-    <description>SWEET! Cut the Rope 2 has arrived and you can enjoy the full adventure for FREE! Cut the Rope 2 brings fresh challenges and unanticipated obstacles to the candy crunching, physics-based phenomenon that has delighted millions of players around the world! If you like Cut the Rope, youâ€™ll love Cut the Rope 2! With new characters, fresh gameplay elements, and, of course, Om Nom, candy collecting has never been so fun! Complete tricky missions to earn medals, advance in the game and access special levels. Play with your friends to see who can get the highest score, or tackle the puzzles on your own! In his unexpected adventure, Om Nom breaks out of his box and travels through lush forests, busy cities, junkyards and underground tunnels, all in pursuit of one goal â€“ CANDY! Along the way, he encounters the Nommies, the cutest candy collecting helpers a little green monster could wish for! MEET OM NOMâ€™S NEW FRIENDS, THE NOMMIES! â€¢ Roto can carry Om Nom to the best candy catching locations â€¢ Lick can make small bridges with his tongue to help Om Nom reach his goal â€¢ Blue can lift Om Nom to new levels of candy hunting fun â€¢ Toss can throw objects, including candy â€¢ Boo can scare Om Nom to jump to new heights â€¢ Snailbrow bravely rolls on walls and ceilings and pushes candies around, like a boss â€¢ Ginger can burn away obstacles between Om Nom and the candy Donâ€™t waste any time - exciting surprises await! Help Om Nom find his way home...out of the forest, through a pond and a junkyard, into the city and beyond! Already a fan? LIKE US: http://facebook.com/cuttherope FOLLOW US: http://twitter.com/cut_the_rope WATCH US: http://youtube.com/zeptolab VISIT US: http://cuttherope.net/cuttherope2</description>
+    <description>SWEET! Cut the Rope 2 has arrived and you can enjoy the full adventure for FREE! Cut the Rope 2 brings fresh challenges and unanticipated obstacles to the candy crunching, physics-based phenomenon that has delighted millions of players around the world! If you like Cut the Rope, youâ€™ll love Cut the Rope 2! With new characters, fresh gameplay elements, and, of course, Om Nom, candy collecting has never been so fun! Complete tricky missions to earn medals, advance in the game and access special levels. Play with your friends to see who can get the highest score, or tackle the puzzles on your own! In his unexpected adventure, Om Nom breaks out of his box and travels through lush forests, busy cities, junkyards and underground tunnels, all in pursuit of one goal â€“ CANDY! Along the way, he encounters the Nommies, the cutest candy collecting helpers a little green monster could wish for! MEET OM NOMâ€™S NEW FRIENDS, THE NOMMIES!  Roto can carry Om Nom to the best candy catching locations  Lick can make small bridges with his tongue to help Om Nom reach his goal  Blue can lift Om Nom to new levels of candy hunting fun  Toss can throw objects, including candy  Boo can scare Om Nom to jump to new heights  Snailbrow bravely rolls on walls and ceilings and pushes candies around, like a boss  Ginger can burn away obstacles between Om Nom and the candy Donâ€™t waste any time - exciting surprises await! Help Om Nom find his way home...out of the forest, through a pond and a junkyard, into the city and beyond! Already a fan? LIKE US: http://facebook.com/cuttherope FOLLOW US: http://twitter.com/cut_the_rope WATCH US: http://youtube.com/zeptolab VISIT US: http://cuttherope.net/cuttherope2</description>
     <package>https://appxboxdl.dankassassin368.com/Windows%208.1%20APPX%20Files/Games/Cut%20The%20Rope%202/1.0.0.46/Neutral/ZeptoLabUKLimited.CuttheRope2_1.0.0.46_neutral_~_sq9zxnwrk84pj.appxbundle</package>
     <screenshot1>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/cutrope1-1779412234.png</screenshot1>
     <screenshot2>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/cutrope2-1779412237.png</screenshot2>
@@ -1483,14 +1439,14 @@ Create original artwork, turn photos into beautiful paintings, or choose an acti
     <featured>false</featured>
     <description>You like the Bing Picture of the Day? With this app, you can download them in Full-HD resolution, set them as your desktop wallpaper or lock screen and much more!
 
-â€¢ View and download todays and past Bing wallpapers
-â€¢ Many download resolutions (landscape &amp; portrait orientation)
-â€¢ Live Tile showing the current Bing picture
-â€¢ Choose from different regions for different pictures
-â€¢ Interesting additional information and links
-â€¢ Optional daily automatic download of the Bing wallpaper
-â€¢ Set a Bing wallpaper as your lockscreen or desktop background
-â€¢ Optional title of the picture on the lock screen or desktop background
+ View and download todays and past Bing wallpapers
+ Many download resolutions (landscape &amp; portrait orientation)
+ Live Tile showing the current Bing picture
+ Choose from different regions for different pictures
+ Interesting additional information and links
+ Optional daily automatic download of the Bing wallpaper
+ Set a Bing wallpaper as your lockscreen or desktop background
+ Optional title of the picture on the lock screen or desktop background
 
 </description>
     <package>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files2/49297T.Partl.DailyPic2_2.6.9.2000_neutral_~_jr9bq2af9farr.AppxBundle</package>
@@ -1534,32 +1490,32 @@ Create original artwork, turn photos into beautiful paintings, or choose an acti
     <description>Bank conveniently and securely with the Bank of AmericaÂ® Mobile Banking app for U.S.-based accounts. 
 
 Manage Your Bank Accounts and Finances
-â€¢ Review activity and balances in checking, savings and credit card accounts
-â€¢ View mortgage, auto loan and other account balances 
-â€¢ Set app alerts to be notified of important account and security info
+ Review activity and balances in checking, savings and credit card accounts
+ View mortgage, auto loan and other account balances 
+ Set app alerts to be notified of important account and security info
 
 Mobile Money Transfer
-â€¢ Securely send and receive money using a mobile number or email address (including to and from U.S. accounts outside of Bank of America)Â¹
-â€¢ Transfer funds between your Bank of America accounts 
+ Securely send and receive money using a mobile number or email address (including to and from U.S. accounts outside of Bank of America)Â¹
+ Transfer funds between your Bank of America accounts 
 
 Mobile Bill Pay
-â€¢ Schedule/edit/cancel payments
-â€¢ Pay eBills
-â€¢ Add/Edit Pay To accounts
+ Schedule/edit/cancel payments
+ Pay eBills
+ Add/Edit Pay To accounts
  
 Mobile Check Deposit
-â€¢ Simply take photos of checks to deposit them 
-â€¢ Immediately see the processing deposit in your accountÂ²
+ Simply take photos of checks to deposit them 
+ Immediately see the processing deposit in your accountÂ²
 
 Find ATMs and financial centers
 
 Special Offers &amp; Deals
-â€¢ Get cash back with BankAmeriDealsÂ® when you use your eligible Bank of America credit/debit cards
+ Get cash back with BankAmeriDealsÂ® when you use your eligible Bank of America credit/debit cards
 
 Help Stay Secure
-â€¢ Change Online ID or Passcode 
-â€¢ If fraudulent activity is suspected on your debit or credit card, we'll notify you so you can call us to verify your transactions and unblock your card
-â€¢ With our Mobile Banking Security Guarantee, youâ€™re not liable for fraudulent transactions when reported promptlyÂ³
+ Change Online ID or Passcode 
+ If fraudulent activity is suspected on your debit or credit card, we'll notify you so you can call us to verify your transactions and unblock your card
+ With our Mobile Banking Security Guarantee, youâ€™re not liable for fraudulent transactions when reported promptlyÂ³
 
 Please see the Online Banking Service Agreement at bankofamerica.com/serviceagreement for more information on these banking features. Your mobile carrierâ€™s message and data rates may apply.
 
@@ -2013,63 +1969,63 @@ When you test your network using the Network Speed Test, certain characteristics
 Manage your files and folders, extract archives, watch videos, view pictures and listen to music.
 
 App features:
-â€¢ file and folder options (copying, moving, renaming, deleting)
-â€¢ opening and extracting files from archives (RAR, ZIP, 7z, ZipX, ISO, BZIP2, GZIP, TAR, ARJ, XZ, CAB...)
-â€¢ built-in viewer and media player (doc, docx, rtf, jpeg, png, bmp, gif, tiff, mp3, wma, m4a, aac, wav, ac3, avi, 3gp, wmv, mp4, m4v, mov, mkv)
-â€¢ audio playback in the background
-â€¢ OneDrive support
-â€¢ Dropbox support
-â€¢ Google Drive support
-â€¢ Yandex Disk support
-â€¢ FTP support
-â€¢ snapped mode support
-â€¢ adding folders to Favorites and pinning them to the Start Screen
-â€¢ charms support: Search and Share
-â€¢ operating with the system Clipboard (copying to Windows Explorer)
-â€¢ themes and backgrounds, Bing wallpaper
-â€¢ video and image preview
-â€¢ autorun when inserting portable devices and flash drives
-â€¢ hotkey commands
+ file and folder options (copying, moving, renaming, deleting)
+ opening and extracting files from archives (RAR, ZIP, 7z, ZipX, ISO, BZIP2, GZIP, TAR, ARJ, XZ, CAB...)
+ built-in viewer and media player (doc, docx, rtf, jpeg, png, bmp, gif, tiff, mp3, wma, m4a, aac, wav, ac3, avi, 3gp, wmv, mp4, m4v, mov, mkv)
+ audio playback in the background
+ OneDrive support
+ Dropbox support
+ Google Drive support
+ Yandex Disk support
+ FTP support
+ snapped mode support
+ adding folders to Favorites and pinning them to the Start Screen
+ charms support: Search and Share
+ operating with the system Clipboard (copying to Windows Explorer)
+ themes and backgrounds, Bing wallpaper
+ video and image preview
+ autorun when inserting portable devices and flash drives
+ hotkey commands
 
 Release notes:
 version 1.2.39.0
-â€¢ This version is targeted for Creators Update.
-â€¢ Added app window transparency (aka Fluent).
-â€¢ Added compact overlay mode for image/audio/video viewer (aka Picture in picture).
-â€¢ Added equalizer to audio player.
-â€¢ Added support for Google Drive and Yandex Disk.
-â€¢ Added support for FTP connections.
+ This version is targeted for Creators Update.
+ Added app window transparency (aka Fluent).
+ Added compact overlay mode for image/audio/video viewer (aka Picture in picture).
+ Added equalizer to audio player.
+ Added support for Google Drive and Yandex Disk.
+ Added support for FTP connections.
 
 version 1.1.84.0
-â€¢ Xbox One support.
-â€¢ Comic Book Archive support (.cbz, .cbr)
-â€¢ Support for background images in the GIF format.
-â€¢ UI improvements.
+ Xbox One support.
+ Comic Book Archive support (.cbz, .cbr)
+ Support for background images in the GIF format.
+ UI improvements.
 
 version 1.1.77.0
 Files&amp;Folders is available for Windows 10 now.
 
 version 1.1.0.27
-â€¢ Built-in viewer and media player 
-â€¢ Audio playback in the background
-â€¢ Streaming from OneDrive and Dropbox
+ Built-in viewer and media player 
+ Audio playback in the background
+ Streaming from OneDrive and Dropbox
 
 version 1.1.0.12
-â€¢ Creating ZIP and 7z archives
-â€¢ RAR5 support
-â€¢ Polish language added
-â€¢ Turkish language added
+ Creating ZIP and 7z archives
+ RAR5 support
+ Polish language added
+ Turkish language added
 
 version 1.1.0.7 
-â€¢ Chinese language added
-â€¢ Fixed a problem with duplication of the SD card on the main page 
-â€¢ Fixed a problem with disappearance of the "New Folder" command
-â€¢ Fixed a problem with list items after changing of the system font size
-â€¢ Fixed a problem with crash of the program in large folders 
-â€¢ Speed rendering of items in large folders optimized
+ Chinese language added
+ Fixed a problem with duplication of the SD card on the main page 
+ Fixed a problem with disappearance of the "New Folder" command
+ Fixed a problem with list items after changing of the system font size
+ Fixed a problem with crash of the program in large folders 
+ Speed rendering of items in large folders optimized
 
 version 1.1.0.4
-â€¢ support for multivolume archives</description>
+ support for multivolume archives</description>
     <package>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/BooStudioLLC.FilesFoldersLite_1.1.20.1000_x86__b6e429xa66pga.appx</package>
     <screenshot1>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/filesfolders1.png</screenshot1>
     <screenshot2>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/filesfolders2.png</screenshot2>
@@ -2131,19 +2087,19 @@ version 1.1.0.4
 
 Key features include:
 
-â€¢ AccuWeather MinuteCastÂ® â€“ minute-by-minute precipitation forecasts for the next two hours hyper-localized to your exact street address or GPS location. Includes precipitation type and intensity, and start and end times for precipitation. Available for the contiguous United States, Canada, United Kingdom, Ireland, Japan, France, Germany, Belgium, Switzerland, Netherlands, Luxembourg, Sweden, Denmark, parts of the Czech Republic, Gibraltar, Liechtenstein and a growing list of global locations.
-â€¢ Severe weather notices for all locations â€“ visible from anywhere within the app. Pushed severe weather alerts straight to your Windows Phone for locations in the United States, Canada, United Kingdom, and Germany.
+ AccuWeather MinuteCastÂ® â€“ minute-by-minute precipitation forecasts for the next two hours hyper-localized to your exact street address or GPS location. Includes precipitation type and intensity, and start and end times for precipitation. Available for the contiguous United States, Canada, United Kingdom, Ireland, Japan, France, Germany, Belgium, Switzerland, Netherlands, Luxembourg, Sweden, Denmark, parts of the Czech Republic, Gibraltar, Liechtenstein and a growing list of global locations.
+ Severe weather notices for all locations â€“ visible from anywhere within the app. Pushed severe weather alerts straight to your Windows Phone for locations in the United States, Canada, United Kingdom, and Germany.
 
-â€¢ Accurate and local forecasts for every latitude/longitude on Earth. Forecasts update every 15 minutes with information for the next 15 days â€“ all in 33 languages and dialects.
-â€¢ Current weather conditions displayed with location name and time, temperature, wind speed, wind gust speed and wind direction, precipitation and amounts, humidity, visibility, UV Index, cloud cover, pressure, and AM and PM times for sunrise and sunset. Option to set current conditions to update as your GPS location changes.
+ Accurate and local forecasts for every latitude/longitude on Earth. Forecasts update every 15 minutes with information for the next 15 days â€“ all in 33 languages and dialects.
+ Current weather conditions displayed with location name and time, temperature, wind speed, wind gust speed and wind direction, precipitation and amounts, humidity, visibility, UV Index, cloud cover, pressure, and AM and PM times for sunrise and sunset. Option to set current conditions to update as your GPS location changes.
 
-â€¢ The Local Forecast Summary, a brief summary of what you can expect from the weather over the next 3-5 days for your location.
+ The Local Forecast Summary, a brief summary of what you can expect from the weather over the next 3-5 days for your location.
 
-â€¢ Fully interactive, full-screen Bing Maps overlaid with AccuWeatherâ€™s precise weather data, including U.S., Canadian, European, and Japanese radar.
+ Fully interactive, full-screen Bing Maps overlaid with AccuWeatherâ€™s precise weather data, including U.S., Canadian, European, and Japanese radar.
 
-â€¢ Unlimited location storage for your GPS location and all your favorites.
+ Unlimited location storage for your GPS location and all your favorites.
 
-â€¢ Pin Live Tiles in four sizes for multiple locations that peek and automatically update the forecasts on the Start screen.
+ Pin Live Tiles in four sizes for multiple locations that peek and automatically update the forecasts on the Start screen.
 
 
 Download AccuWeather â€“ Weather for Life today for free and experience the Superior Accuracyâ„¢ that comes from high-quality weather forecasting.</description>
@@ -2173,19 +2129,19 @@ Download AccuWeather â€“ Weather for Life today for free and experience the
 
 Key features include:
 
-â€¢ AccuWeather MinuteCastÂ® â€“ minute-by-minute precipitation forecasts for the next two hours hyper-localized to your exact street address or GPS location. Includes precipitation type and intensity, and start and end times for precipitation. Available for the contiguous United States, Canada, United Kingdom, Ireland, Japan, France, Germany, Belgium, Switzerland, Netherlands, Luxembourg, Sweden, Denmark, parts of the Czech Republic, Gibraltar, Liechtenstein and a growing list of global locations.
-â€¢ Severe weather notices for all locations â€“ visible from anywhere within the app. Pushed severe weather alerts straight to your Windows Phone for locations in the United States, Canada, United Kingdom, and Germany.
+ AccuWeather MinuteCastÂ® â€“ minute-by-minute precipitation forecasts for the next two hours hyper-localized to your exact street address or GPS location. Includes precipitation type and intensity, and start and end times for precipitation. Available for the contiguous United States, Canada, United Kingdom, Ireland, Japan, France, Germany, Belgium, Switzerland, Netherlands, Luxembourg, Sweden, Denmark, parts of the Czech Republic, Gibraltar, Liechtenstein and a growing list of global locations.
+ Severe weather notices for all locations â€“ visible from anywhere within the app. Pushed severe weather alerts straight to your Windows Phone for locations in the United States, Canada, United Kingdom, and Germany.
 
-â€¢ Accurate and local forecasts for every latitude/longitude on Earth. Forecasts update every 15 minutes with information for the next 15 days â€“ all in 33 languages and dialects.
-â€¢ Current weather conditions displayed with location name and time, temperature, wind speed, wind gust speed and wind direction, precipitation and amounts, humidity, visibility, UV Index, cloud cover, pressure, and AM and PM times for sunrise and sunset. Option to set current conditions to update as your GPS location changes.
+ Accurate and local forecasts for every latitude/longitude on Earth. Forecasts update every 15 minutes with information for the next 15 days â€“ all in 33 languages and dialects.
+ Current weather conditions displayed with location name and time, temperature, wind speed, wind gust speed and wind direction, precipitation and amounts, humidity, visibility, UV Index, cloud cover, pressure, and AM and PM times for sunrise and sunset. Option to set current conditions to update as your GPS location changes.
 
-â€¢ The Local Forecast Summary, a brief summary of what you can expect from the weather over the next 3-5 days for your location.
+ The Local Forecast Summary, a brief summary of what you can expect from the weather over the next 3-5 days for your location.
 
-â€¢ Fully interactive, full-screen Bing Maps overlaid with AccuWeatherâ€™s precise weather data, including U.S., Canadian, European, and Japanese radar.
+ Fully interactive, full-screen Bing Maps overlaid with AccuWeatherâ€™s precise weather data, including U.S., Canadian, European, and Japanese radar.
 
-â€¢ Unlimited location storage for your GPS location and all your favorites.
+ Unlimited location storage for your GPS location and all your favorites.
 
-â€¢ Pin Live Tiles in four sizes for multiple locations that peek and automatically update the forecasts on the Start screen.
+ Pin Live Tiles in four sizes for multiple locations that peek and automatically update the forecasts on the Start screen.
 
 
 Download AccuWeather â€“ Weather for Life today for free and experience the Superior Accuracyâ„¢ that comes from high-quality weather forecasting.</description>
@@ -2297,7 +2253,7 @@ Download AccuWeather â€“ Weather for Life today for free and experience the
     <icon>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/WunderlistLogo.png</icon>
     <publisher>6 Wunderkinder GmbH</publisher>
     <featured>true</featured>
-    <description>Wunderlist helps millions of people around the world capture their ideas, things to do and places to see. Wunderlist has joined Microsoft! Get the to-do lists, tasks and features you love from Wunderlist on our new app: Microsoft To Do. Plus: a smart daily planner, Microsoft apps and services integration, customization and more! Make to-do lists and tasks assignments for any purpose. Grocery lists for the family, project to-do lists, a checklist for vacation plans and more - Wunderlist makes it easy to share your lists and collaborate with everyone in your life. Wunderlist instantly syncs between your phone, tablet and computer, so you can access your lists from anywhere. Lists need to move from Wunderlist to To Do? Import tasks automatically to keep using all your favorite Wunderlist features and more on Microsoft To Do. ----- Critics Love Wunderlist â€œThe best to-do list app.â€ - The Verge Wunderlist has also been featured in The New York Times, Lifehacker, TechCrunch, CNET, The Guardian, Wired, and Vanity Fair, just to name a few. ----- Wunderlist Features: To-Do Lists â€¢ Create all the lists you need and access them from your phone, tablet and computer â€¢ Attach photos, PDFs, presentations and more â€¢ Setting a Reminder ensures you never forget important deadlines (or birthday gifts) ever again â€¢ Organize your projects for home, work and everywhere in between with Folders Collaborate â€¢ Easily share lists and collaborate with family, friends and colleagues â€¢ Start conversations about your to-dos â€¢ Share the work and delegate to-dos To-Do On-The-Go â€¢ Productivity from anywhere, thanks to Wunderlistâ€™s apps for your phone, smart watch, tablet and computer Upgrade your Wunderlist experience with Microsoft To Do for all your task and to-do lists today. Our Terms of Use: http://www.wunderlist.com/terms-of-use Our Privacy Policy: http://www.wunderlist.com/privacy-policy Learn more about Wunderlist at www.wunderlist.com</description>
+    <description>Wunderlist helps millions of people around the world capture their ideas, things to do and places to see. Wunderlist has joined Microsoft! Get the to-do lists, tasks and features you love from Wunderlist on our new app: Microsoft To Do. Plus: a smart daily planner, Microsoft apps and services integration, customization and more! Make to-do lists and tasks assignments for any purpose. Grocery lists for the family, project to-do lists, a checklist for vacation plans and more - Wunderlist makes it easy to share your lists and collaborate with everyone in your life. Wunderlist instantly syncs between your phone, tablet and computer, so you can access your lists from anywhere. Lists need to move from Wunderlist to To Do? Import tasks automatically to keep using all your favorite Wunderlist features and more on Microsoft To Do. ----- Critics Love Wunderlist â€œThe best to-do list app.â€ - The Verge Wunderlist has also been featured in The New York Times, Lifehacker, TechCrunch, CNET, The Guardian, Wired, and Vanity Fair, just to name a few. ----- Wunderlist Features: To-Do Lists  Create all the lists you need and access them from your phone, tablet and computer  Attach photos, PDFs, presentations and more  Setting a Reminder ensures you never forget important deadlines (or birthday gifts) ever again  Organize your projects for home, work and everywhere in between with Folders Collaborate  Easily share lists and collaborate with family, friends and colleagues  Start conversations about your to-dos  Share the work and delegate to-dos To-Do On-The-Go  Productivity from anywhere, thanks to Wunderlistâ€™s apps for your phone, smart watch, tablet and computer Upgrade your Wunderlist experience with Microsoft To Do for all your task and to-do lists today. Our Terms of Use: http://www.wunderlist.com/terms-of-use Our Privacy Policy: http://www.wunderlist.com/privacy-policy Learn more about Wunderlist at www.wunderlist.com</description>
     <package>https://raw.githubusercontent.com/andreatennis2024-hue/octostore-new-apps/main/6Wunderkinder.Wunderlist_3.6.27.0_x86__b4cwydgxqx59r.Appx_1782846377570.appx</package>
     <screenshot1>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/WunderlistScreenshot1.png</screenshot1>
     <screenshot2>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files/WunderlistScreenshot2.png</screenshot2>
@@ -3330,17 +3286,17 @@ It does not require any special skills, and allows you to quickly find, download
 Who knows what improvements are coming in the futureâ€¦
 
 Powers and abilities:
-â€¢ Ongoing evolution.
-â€¢ Flight: Torrex is now much lighter and faster.
-â€¢ Mimicry: the design adapts to any type of devices.
-â€¢ Invisibility: Torrex works in the background without any problems.
-â€¢ Mutation: a built-in player. Watch media content right in the application.
-â€¢ Time jump: watch a movie or listen to music while the download is still in progress.
-â€¢ Extended vision: improved detection of torrent sources.
-â€¢ Speed control: you can limit the speed and total amount of downloaded data.
-â€¢ Agility: you can now enable downloads over Wi-Fi only to save mobile traffic.
-â€¢ Telepathy: share data remotely using â€œShare Contractâ€.
-â€¢ Empathy: Torrex speaks over 32 languages and is learning new ones all the time.
+ Ongoing evolution.
+ Flight: Torrex is now much lighter and faster.
+ Mimicry: the design adapts to any type of devices.
+ Invisibility: Torrex works in the background without any problems.
+ Mutation: a built-in player. Watch media content right in the application.
+ Time jump: watch a movie or listen to music while the download is still in progress.
+ Extended vision: improved detection of torrent sources.
+ Speed control: you can limit the speed and total amount of downloaded data.
+ Agility: you can now enable downloads over Wi-Fi only to save mobile traffic.
+ Telepathy: share data remotely using â€œShare Contractâ€.
+ Empathy: Torrex speaks over 32 languages and is learning new ones all the time.
 
 The limits of its capabilities are still unknown.
 
@@ -3349,80 +3305,80 @@ Just send your suggestions to torrex@finebits.com.
 And donâ€™t forget to give your â˜…â˜…â˜…â˜…â˜… rating to our hero.
 
 Technical features:
-â€¢ Simple and intuitive interface.
-â€¢ Smart adaptive design.
-â€¢ Fully universal application (UWP).
-â€¢ Support of the Continuum technology.
-â€¢ Background mode support.
-â€¢ Ability to play media files immediately after the start of downloading (streaming).
-â€¢ Built-in viewer for music, video, images and text files.
-â€¢ Plays MKV formatted video files.
-â€¢ Configurable content view (tiles, table, tree) and various color themes.
-â€¢ Download priority management, filters.
-â€¢ Possibility to stop seeding upon completing a download.
-â€¢ Possibility to restrict downloads to non-mobile connections only.
-â€¢ Possibility to change the download destination.
-â€¢ Connection encryption.
-â€¢ Download speed control.
+ Simple and intuitive interface.
+ Smart adaptive design.
+ Fully universal application (UWP).
+ Support of the Continuum technology.
+ Background mode support.
+ Ability to play media files immediately after the start of downloading (streaming).
+ Built-in viewer for music, video, images and text files.
+ Plays MKV formatted video files.
+ Configurable content view (tiles, table, tree) and various color themes.
+ Download priority management, filters.
+ Possibility to stop seeding upon completing a download.
+ Possibility to restrict downloads to non-mobile connections only.
+ Possibility to change the download destination.
+ Connection encryption.
+ Download speed control.
 
 Release notes:
-â€¢ This version is targeted for Creators Update.
-â€¢ Added option to turn on app window transparency (aka NEON).
-â€¢ Added compact overlay mode for image/audio/video viewer (aka Picture in picture).
-â€¢ Added equalizer to audio player.
-â€¢ Added languages: Azerbaijani, Belarusian, Estonian, Hindi, Lithuanian, Macedonian, Malay, Slovak, Vietnamese, Chinese simplified.
+ This version is targeted for Creators Update.
+ Added option to turn on app window transparency (aka NEON).
+ Added compact overlay mode for image/audio/video viewer (aka Picture in picture).
+ Added equalizer to audio player.
+ Added languages: Azerbaijani, Belarusian, Estonian, Hindi, Lithuanian, Macedonian, Malay, Slovak, Vietnamese, Chinese simplified.
 
 1.3.11.0
 Important update for Desktop Device Family (Desktops, Laptops, Tablets):
-â€¢ Added option to turn off computer after all downloads have completed.
-â€¢ Added ability to launch app on system startup.
-â€¢ Improved downloading in background.
+ Added option to turn off computer after all downloads have completed.
+ Added ability to launch app on system startup.
+ Improved downloading in background.
 
 1.2.176.0
-â€¢ Now with Creators Update on Xbox One Torrex can download files to an external drive.
+ Now with Creators Update on Xbox One Torrex can download files to an external drive.
 
 1.2.139.0
-â€¢ Playback bug on HoloLens was fixed
+ Playback bug on HoloLens was fixed
 
 1.2.134.0
-â€¢ UI improvements.
-â€¢ Fullscreen mode for Xbox One.
+ UI improvements.
+ Fullscreen mode for Xbox One.
 
 1.2.130.0
-â€¢ Performance optimization.
+ Performance optimization.
       
 1.2.118.0
-â€¢ Torrex is a UWP app and is available for all devices using Windows 10 (Desktop, Tablet, Mobile, Xbox One, Hololens).
-â€¢ Torrex is now available for Windows 10 Mobile.
-â€¢ New languages: Bosnian, Croatian, Georgian, Korean, Malay, Norwegian, Persian, Portuguese and Serbian.
+ Torrex is a UWP app and is available for all devices using Windows 10 (Desktop, Tablet, Mobile, Xbox One, Hololens).
+ Torrex is now available for Windows 10 Mobile.
+ New languages: Bosnian, Croatian, Georgian, Korean, Malay, Norwegian, Persian, Portuguese and Serbian.
 
 1.2.117.0
-â€¢ UI improvements.
-â€¢ Preparation for Xbox One package.
+ UI improvements.
+ Preparation for Xbox One package.
 
 1.2.101.0
-â€¢ Background download for Anniversary Update package was improved.
-â€¢ Option for background download for Anniversary Update package when running on battery was added.
-â€¢ Home button was added.
-â€¢ UI improvements.
+ Background download for Anniversary Update package was improved.
+ Option for background download for Anniversary Update package when running on battery was added.
+ Home button was added.
+ UI improvements.
 
 1.2.96.0
-â€¢ UI improvements.
-â€¢ Editboxes for all sliders in the Settings was added.
-â€¢ Size of sliders was increased.
-â€¢ Max values for Max Active Torrents and Upload Slots was changed.
-â€¢ Highlight color in the Tree was fixed.
-â€¢ Bug with Open Containing folder was fixed.
-â€¢ Folders order in the Tree was fixed.
+ UI improvements.
+ Editboxes for all sliders in the Settings was added.
+ Size of sliders was increased.
+ Max values for Max Active Torrents and Upload Slots was changed.
+ Highlight color in the Tree was fixed.
+ Bug with Open Containing folder was fixed.
+ Folders order in the Tree was fixed.
 
 1.2.90.0
-â€¢ Speed button added for Mobile.
-â€¢ UI improvements.
-â€¢ Anniversary Update package.
+ Speed button added for Mobile.
+ UI improvements.
+ Anniversary Update package.
 
 1.2.88.0
-â€¢ Fixed issue with Bing wallpaper.
-â€¢ Fixed issue with text overlapping on main page.</description>
+ Fixed issue with Bing wallpaper.
+ Fixed issue with text overlapping on main page.</description>
     <screenshot1>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files2/torrex_scr1.png</screenshot1>
     <screenshot2>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files2/torrex_scr2.png</screenshot2>
     <screenshot3>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files2/torrex_scr3.png</screenshot3>
@@ -3713,7 +3669,7 @@ What Arcane Quest players are saying:
     <icon>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files2/aolvideo_img.png</icon>
     <publisher>Aol</publisher>
     <featured>false</featured>
-    <description>(THE APP DOESNT WORK) AOL Video has been redesigned! Watch the latest videos in News, Weather, Finance, Entertainment and Lifestyle on AOL Video! AOL Video serves up the best video content from AOL and our premium partners, curating informative and entertaining videos, along with viral â€œmust-seeâ€ moments &amp; much more. Our library includes video content from: NBC, ABC, Reuters, WSJ, TMZ, Entertainment Tonight, Engadget, TechCrunch, CNET, Buzzfeed, AOL Originals, Fox Sports, and Discovery, just to name a few. Key Features: â€¢ NEW look and app branding! â€¢ Universal Search AOLâ€™s extensive video catalog of nearly 2 Million videos â€¢ Watch videos, original shows, news clips, trending and viral, entertainment, tech, etc. â€¢ Dynamically updated content - always fresh and relevant â€¢ Video player supports 360Â° videos â€¢ HD thumbnail and video resolution for your TV enjoyment We welcome and appreciate feedback at: aolon.apps@teamaol.com</description>
+    <description>(THE APP DOESNT WORK) AOL Video has been redesigned! Watch the latest videos in News, Weather, Finance, Entertainment and Lifestyle on AOL Video! AOL Video serves up the best video content from AOL and our premium partners, curating informative and entertaining videos, along with viral â€œmust-seeâ€ moments &amp; much more. Our library includes video content from: NBC, ABC, Reuters, WSJ, TMZ, Entertainment Tonight, Engadget, TechCrunch, CNET, Buzzfeed, AOL Originals, Fox Sports, and Discovery, just to name a few. Key Features:  NEW look and app branding!  Universal Search AOLâ€™s extensive video catalog of nearly 2 Million videos  Watch videos, original shows, news clips, trending and viral, entertainment, tech, etc.  Dynamically updated content - always fresh and relevant  Video player supports 360Â° videos  HD thumbnail and video resolution for your TV enjoyment We welcome and appreciate feedback at: aolon.apps@teamaol.com</description>
     <package>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files2/Aol.AOLOn_1.1.28.0_neutral_~_95th8zv6cmbrc.AppxBundle</package>
     <screenshot1>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files2/aolvideo_scr1.png</screenshot1>
     <screenshot2>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files2/aolvideo_scr2.png</screenshot2>
@@ -3878,7 +3834,7 @@ The Economist is a weekly international news and business publication, offering 
     <icon>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files2/plex_img.png</icon>
     <publisher>Plex</publisher>
     <featured>false</featured>
-    <description>Plex organizes all of your video, music, and photo collections, and gives you instant access to them on all of your devices. With the free Plex Media Server (download for free at www.plex.tv/downloads) software on your home computer and Plex for Windows, you can enjoy all of your personal media on your Windows device and easily share it with friends and family. Plex also makes your media look beautiful with rich descriptions, artwork, and other related information. With an optional premium Plex Pass subscription, you can even sync videos, music, and photos to your smartphones and tablets to enjoy while offline.  Parental controls, premium music features, music videos, trailers and extras,  and powerful management tools are also part of our premium offering. Getting up and running is fast and simple, so get started now! Free functionality â€¢ Unlimited playback of on-device video and photos. â€¢ Fling unlimited photos and videos from your Plex Media Server (available for free at https://plex.tv/downloads) and the Camera Roll on your phone or tablet to other supported Plex apps, such as Roku, Android TV, Fire TV, Xbox One, and other apps. Limitations of the free app â€¢ Playing media from your Plex Media Server on the device running this app is limited (one minute for music and video, watermark on photos) until the app is unlocked. Unlock full functionality â€¢ Unlock unlimited streaming to your Windows device with a Plex Pass subscription that includes many other premium features (available at https://plex.tv/plexpass) -OR- a small one-time in-app purchase. Here are some ways that Plex makes your media experience awesome: â€¢ Makes your media beautiful with artwork, descriptions, and more â€¢ Automatically converts your media on-the-fly to play on any device â€¢ Makes sharing your media with friends and family simple and easy â€¢ Plex Pass feature: Sync media to your phone or tablet for offline viewing. â€¢ Plex Pass feature: Sync media to your favorite cloud provider including Google Drive, Dropbox, and Box, so you can stream media even when your server is offline. â€¢ Plex Pass feature: Online Trailers and Extras for the movies in your collection! â€¢ Lets you browse, fling, and control your media on most Plex apps â€¢ Gives you access to a wide range of online channels such as TED Talks, Revision3, and TWiT â€¢ Enables you to queue online videos from sites like Vimeo and YouTube and then Watch Later on any device Other features include*: â€¢ Accessibility: Connect to your Plex Media Server wherever you are, whenever you want â€¢ Plex Home: Use customized, managed accounts, and restrict content those users can access â€¢ Camera Upload: Automatically upload your photos from your device to your Plex Media Server â€¢ Mobile Sync: Sync media to your phone or tablet for offline viewing â€¢ Security: Enjoy your media away from home, knowing connection is securely encrypted â€¢ Plex Mix: Kick off a playlist of similar and related tracks from your collection at any time â€¢ Rotten Tomatoes: See how your movie collection ranks with ratings from Rotten Tomatoes â€¢ Related Movies and TV shows: Easily find similar movies based on selections in your library â€¢ Top Movies: View top movies by genre, director, and actor â€¢ Movie Extras and Music Videos: Access trailers, extras, and music videos from your libraries *Please note, some features are only available to Plex Pass subscribers. IMPORTANT: In cases where you have trouble, we're interested in assisting through our forums (https://forums.plex.tv/), so that things can be investigated and resolved to benefit all users. NOTE: PLEX FOR WINDOWS IS CURRENTLY NOT COMPATIBLE WITH GOOGLE CHROMECAST. YOU MUST HAVE A PLEX MEDIA SERVER (AVAILABLE FOR FREE AT https://plex.tv/downloads) INSTALLED AND RUNNING TO STREAM MEDIA TO THIS APP. SERVER VERSION 0.9.8.14 OR HIGHER IS REQUIRED. DRM-protected content (such as video from the iTunes store), ISO disc images, and VIDEO_TS folders are not supported. DTS audio and some subtitle formats are not supported for Direct Play, and will be transcoded. Connecting to a Plex Media Server on the local machine requires a loopback exemption due to Windows application sandboxing.</description>
+    <description>Plex organizes all of your video, music, and photo collections, and gives you instant access to them on all of your devices. With the free Plex Media Server (download for free at www.plex.tv/downloads) software on your home computer and Plex for Windows, you can enjoy all of your personal media on your Windows device and easily share it with friends and family. Plex also makes your media look beautiful with rich descriptions, artwork, and other related information. With an optional premium Plex Pass subscription, you can even sync videos, music, and photos to your smartphones and tablets to enjoy while offline.  Parental controls, premium music features, music videos, trailers and extras,  and powerful management tools are also part of our premium offering. Getting up and running is fast and simple, so get started now! Free functionality  Unlimited playback of on-device video and photos.  Fling unlimited photos and videos from your Plex Media Server (available for free at https://plex.tv/downloads) and the Camera Roll on your phone or tablet to other supported Plex apps, such as Roku, Android TV, Fire TV, Xbox One, and other apps. Limitations of the free app  Playing media from your Plex Media Server on the device running this app is limited (one minute for music and video, watermark on photos) until the app is unlocked. Unlock full functionality  Unlock unlimited streaming to your Windows device with a Plex Pass subscription that includes many other premium features (available at https://plex.tv/plexpass) -OR- a small one-time in-app purchase. Here are some ways that Plex makes your media experience awesome:  Makes your media beautiful with artwork, descriptions, and more  Automatically converts your media on-the-fly to play on any device  Makes sharing your media with friends and family simple and easy  Plex Pass feature: Sync media to your phone or tablet for offline viewing.  Plex Pass feature: Sync media to your favorite cloud provider including Google Drive, Dropbox, and Box, so you can stream media even when your server is offline.  Plex Pass feature: Online Trailers and Extras for the movies in your collection!  Lets you browse, fling, and control your media on most Plex apps  Gives you access to a wide range of online channels such as TED Talks, Revision3, and TWiT  Enables you to queue online videos from sites like Vimeo and YouTube and then Watch Later on any device Other features include*:  Accessibility: Connect to your Plex Media Server wherever you are, whenever you want  Plex Home: Use customized, managed accounts, and restrict content those users can access  Camera Upload: Automatically upload your photos from your device to your Plex Media Server  Mobile Sync: Sync media to your phone or tablet for offline viewing  Security: Enjoy your media away from home, knowing connection is securely encrypted  Plex Mix: Kick off a playlist of similar and related tracks from your collection at any time  Rotten Tomatoes: See how your movie collection ranks with ratings from Rotten Tomatoes  Related Movies and TV shows: Easily find similar movies based on selections in your library  Top Movies: View top movies by genre, director, and actor  Movie Extras and Music Videos: Access trailers, extras, and music videos from your libraries *Please note, some features are only available to Plex Pass subscribers. IMPORTANT: In cases where you have trouble, we're interested in assisting through our forums (https://forums.plex.tv/), so that things can be investigated and resolved to benefit all users. NOTE: PLEX FOR WINDOWS IS CURRENTLY NOT COMPATIBLE WITH GOOGLE CHROMECAST. YOU MUST HAVE A PLEX MEDIA SERVER (AVAILABLE FOR FREE AT https://plex.tv/downloads) INSTALLED AND RUNNING TO STREAM MEDIA TO THIS APP. SERVER VERSION 0.9.8.14 OR HIGHER IS REQUIRED. DRM-protected content (such as video from the iTunes store), ISO disc images, and VIDEO_TS folders are not supported. DTS audio and some subtitle formats are not supported for Direct Play, and will be transcoded. Connecting to a Plex Media Server on the local machine requires a loopback exemption due to Windows application sandboxing.</description>
     <package>https://github.com/draydenthemiiyt-maker/packages/releases/download/APPX/CAF9E577.Plex_3.2.20.0_neutral_._aam28m9va5cke.AppxBundle</package>
     <screenshot1>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files2/plex_scr1.png</screenshot1>
     <screenshot2>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files2/plex_scr2.png</screenshot2>
@@ -3914,7 +3870,7 @@ The Economist is a weekly international news and business publication, offering 
     <icon>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files2/mahjong3_img.png</icon>
     <publisher>1C Wireless LLC</publisher>
     <featured>false</featured>
-    <description>Presenting new title by 1C Wireless â€“ Mahjong 3! There are three game modes for you to enjoy: â€¢ Classic - Original Mahjong Solitaire. Play as long as you want! â€¢ Time Attack - Clear all matching tiles as quick as possible! â€¢ Challenge - For Advanced players. You have limited time to choose your Tiles. The faster you select the Tiles, the higher will be your score for the move! Win in Challenge mode to unlock more towers. Features: â€¢ Large and clear graphics of mahjong tiles! Best for your eyes! â€¢ Full undo! â€¢ Different backgrounds and themes! â€¢ New super SHUFFLE feature when no more moves are available! â€¢ Hints: possible moves can be highlighted! This solitaire game is also known as Mahjong Solitaire, Taipei Mahjongg, Shanghai Mah-Jong, Chinese Mahjong, Mahjong Trails, Mahjong Titans, Kyodai.</description>
+    <description>Presenting new title by 1C Wireless â€“ Mahjong 3! There are three game modes for you to enjoy:  Classic - Original Mahjong Solitaire. Play as long as you want!  Time Attack - Clear all matching tiles as quick as possible!  Challenge - For Advanced players. You have limited time to choose your Tiles. The faster you select the Tiles, the higher will be your score for the move! Win in Challenge mode to unlock more towers. Features:  Large and clear graphics of mahjong tiles! Best for your eyes!  Full undo!  Different backgrounds and themes!  New super SHUFFLE feature when no more moves are available!  Hints: possible moves can be highlighted! This solitaire game is also known as Mahjong Solitaire, Taipei Mahjongg, Shanghai Mah-Jong, Chinese Mahjong, Mahjong Trails, Mahjong Titans, Kyodai.</description>
     <package>https://github.com/draydenthemiiyt-makerbackup/packages/releases/download/APPX/1CWirelessLLC.Mahjong3_1.22.0.0_neutral_._tzjxkvxwjwcjr.AppxBundle</package>
     <screenshot1>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files2/mahjong3_scr1.png</screenshot1>
     <screenshot2>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files2/mahjong3_scr2.png</screenshot2>
@@ -4150,7 +4106,7 @@ Go to support.roku.com for FAQs or to get help.</description>
     <icon>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files2/theweatherchannel_img.png</icon>
     <publisher>The Weather Channel.</publisher>
     <featured>false</featured>
-    <description>Make confident decisions based on the worldâ€™s most popular weather app. KNOW THE WEATHER ANYWHERE, RIGHT NOW â€¢ Forecasts: Get hourly and 15-day forecasts in Celsius or Fahrenheit. â€¢ Current Weather Conditions: More than temperatures, get â€œfeels likeâ€ weather, humidity, dew point, sunrise, sunset, moon phases, wind speed, UV index, visibility and barometric pressure. â€¢ Weather Maps: Fast-loading radar maps show past and future radar. Map layers show rainfall, snowfall, road or satellite views, wind speeds, and more. PERSONALIZED REAL-TIME WEATHER ALERTS â€¢ Severe Weather Alerts: Stay safe with National Weather Service notifications of severe weather, and know the moment tornado or severe storm watches and warnings are issued. â€¢ Breaking News Alerts: Keep informed with national weather news updates. â€¢ Lightning Alerts: Get real-time alerts for your GPS location, and know where lightning strikes near you. â€¢ Rain and Snow Alerts: Never get caught in the rain again with real-time alerts for your GPS location and morning rain reports for your favorite locations. â€¢ Pollen Alerts: Know the pollen counts near you. Itâ€™s easy and free! Unlock these alerts by selecting â€œcreate accountâ€ in your settings menu, under â€œaccount.â€ DIVE DEEP INTO YOUR WEATHER â€¢ Weather News: From severe storms to straight-up bizarre weather occurrences, weâ€™ll keep you up-to-date. â€¢ Weather Videos: Local forecasts, climate change news, and everything in between, all streamed in HD. â€¢ Live Tiles: Get your current conditions and the high/low temperatures for your favorite locations in a glance. â€¢ Health Information: Track pollen levels and get flu reports (when available). â€¢ Airport Weather: Know how weather will impact your flights with our airport arrival and departure data. â€¢ Sleek Interface: Easy to use and beautiful in its simplicity. â€¢ Stunning Imagery: Amazing background photos match your current weather conditions. â€¢ Love all Devices: The worldâ€™s most downloaded news &amp; weather app is optimized for all Windows devices. CORTANA CAN HELP Simply activate Cortana (by saying â€œHey, Cortanaâ€) and say or type â€œShow me,â€ followed by your question. For example, you could say â€œHey, Cortana! â€œShow meâ€, when will it rain?â€ to learn when it will rain in your precise location. For a complete list of available commands for The Weather Channel app, check out the Cortana section in your settings menu. THE WEATHER CHANNEL ON THE WEB AND SOCIAL MEDIA: Find us at weather.com, like us on facebook.com/theweatherchannel, and follow us on Twitter @weatherchannel. FEEDBACK: We love when you provide us with feedback. If you love our weather app, please review and rate us in the Microsoft Store. If you have questions or suggestions, please submit them to feedback.weather.com. PRIVACY: You may be interested in our Privacy Policy, which can be found here: https://weather.com/en-US/twc/privacy-policy and our Terms of Use, which can be found here: http://www.weather.com/common/home/legal.html</description>
+    <description>Make confident decisions based on the worldâ€™s most popular weather app. KNOW THE WEATHER ANYWHERE, RIGHT NOW  Forecasts: Get hourly and 15-day forecasts in Celsius or Fahrenheit.  Current Weather Conditions: More than temperatures, get â€œfeels likeâ€ weather, humidity, dew point, sunrise, sunset, moon phases, wind speed, UV index, visibility and barometric pressure.  Weather Maps: Fast-loading radar maps show past and future radar. Map layers show rainfall, snowfall, road or satellite views, wind speeds, and more. PERSONALIZED REAL-TIME WEATHER ALERTS  Severe Weather Alerts: Stay safe with National Weather Service notifications of severe weather, and know the moment tornado or severe storm watches and warnings are issued.  Breaking News Alerts: Keep informed with national weather news updates.  Lightning Alerts: Get real-time alerts for your GPS location, and know where lightning strikes near you.  Rain and Snow Alerts: Never get caught in the rain again with real-time alerts for your GPS location and morning rain reports for your favorite locations.  Pollen Alerts: Know the pollen counts near you. Itâ€™s easy and free! Unlock these alerts by selecting â€œcreate accountâ€ in your settings menu, under â€œaccount.â€ DIVE DEEP INTO YOUR WEATHER  Weather News: From severe storms to straight-up bizarre weather occurrences, weâ€™ll keep you up-to-date.  Weather Videos: Local forecasts, climate change news, and everything in between, all streamed in HD.  Live Tiles: Get your current conditions and the high/low temperatures for your favorite locations in a glance.  Health Information: Track pollen levels and get flu reports (when available).  Airport Weather: Know how weather will impact your flights with our airport arrival and departure data.  Sleek Interface: Easy to use and beautiful in its simplicity.  Stunning Imagery: Amazing background photos match your current weather conditions.  Love all Devices: The worldâ€™s most downloaded news &amp; weather app is optimized for all Windows devices. CORTANA CAN HELP Simply activate Cortana (by saying â€œHey, Cortanaâ€) and say or type â€œShow me,â€ followed by your question. For example, you could say â€œHey, Cortana! â€œShow meâ€, when will it rain?â€ to learn when it will rain in your precise location. For a complete list of available commands for The Weather Channel app, check out the Cortana section in your settings menu. THE WEATHER CHANNEL ON THE WEB AND SOCIAL MEDIA: Find us at weather.com, like us on facebook.com/theweatherchannel, and follow us on Twitter @weatherchannel. FEEDBACK: We love when you provide us with feedback. If you love our weather app, please review and rate us in the Microsoft Store. If you have questions or suggestions, please submit them to feedback.weather.com. PRIVACY: You may be interested in our Privacy Policy, which can be found here: https://weather.com/en-US/twc/privacy-policy and our Terms of Use, which can be found here: http://www.weather.com/common/home/legal.html</description>
     <package>https://github.com/draydenthemiiyt-makerbackup/packages/releases/download/APPX/Weather.TheWeatherChannel_2016.614.87.0_neutral_._t3yemqpq4kp7p.AppxBundle</package>
     <screenshot1>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files2/theweatherchannel_scr1.png</screenshot1>
     <screenshot2>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files2/theweatherchannel_scr2.png</screenshot2>
@@ -4430,11 +4386,11 @@ Twitter: http://www.twitter.com/VanaiaLLC
 
 
 What do users say about ScanWritr?
-â€¢	Â»Amazingly well executed. I opened a PDF attachment from an email, edited it, signed it, and sent it back, all from my phone. Tried it, and then upgraded after one use. Very impressive. Â« (Scott, USA)
-â€¢	Â»Simply the best scanning app. I use this more than I use my real desktop scanner. Â« (Jim, USA)
-â€¢	Â»It works! Happy that I can get to add my signature and add notes. Â« (Dennis, Philippines)
-â€¢	Â»Very good application, easy to use and extremely convenient to scan, edit a document and then email it or print it! Â« (AngÃ©lique, France)
-â€¢	Â»Well done! Better than Microsoft Office Lens! Â« (LÃ¡szlÃ³, Hungary)</description>
+	Â»Amazingly well executed. I opened a PDF attachment from an email, edited it, signed it, and sent it back, all from my phone. Tried it, and then upgraded after one use. Very impressive. Â« (Scott, USA)
+	Â»Simply the best scanning app. I use this more than I use my real desktop scanner. Â« (Jim, USA)
+	Â»It works! Happy that I can get to add my signature and add notes. Â« (Dennis, Philippines)
+	Â»Very good application, easy to use and extremely convenient to scan, edit a document and then email it or print it! Â« (AngÃ©lique, France)
+	Â»Well done! Better than Microsoft Office Lens! Â« (LÃ¡szlÃ³, Hungary)</description>
     <package>https://github.com/draydenthemiiyt-makerbackup/packages/releases/download/APPX/VanaiaLLC.ScanWritr_2.2.3.0_neutral_._9qvmz6e8hwys4.AppxBundle</package>
     <screenshot1>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files2/scanwritr10_scr1.png</screenshot1>
     <screenshot2>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files2/scanwritr10_scr2.png</screenshot2>
@@ -4528,23 +4484,23 @@ Unfortunately we had to remove the Appx/Xap download feature as it violates Micr
     <description>The redesigned Camera app is faster and simpler than ever. Just point and shoot to take great pictures automatically. The same great camera experience is available across Windows 10 PCs, tablets, and phones.
 
 On any PC, tablet or phone:
-â€¢ Automatically back up your pictures so you can get to them on all your devices via OneDrive.
-â€¢ Pause and resume while you record video to help stitch together separate moments.
-â€¢ Jump into the picture by using the photo timer.
-â€¢ Compose the perfect shot using the framing grid.
-â€¢ Set the camera to capture either a rapid burst of shots or a video when you press and hold the on-screen shutter button.
-â€¢ For pro controls, drag the shutter button toward the center and adjust the dials for brightness and more.
+ Automatically back up your pictures so you can get to them on all your devices via OneDrive.
+ Pause and resume while you record video to help stitch together separate moments.
+ Jump into the picture by using the photo timer.
+ Compose the perfect shot using the framing grid.
+ Set the camera to capture either a rapid burst of shots or a video when you press and hold the on-screen shutter button.
+ For pro controls, drag the shutter button toward the center and adjust the dials for brightness and more.
 
 On select phones and tablets:
-â€¢ Capture more of the scene with panorama on phones and tablets. *(7)
-â€¢ Transform your static photos into living images that move, then play them back in the Photos app on any Windows 10 device. *(4,5,6)
-â€¢ Shoot smoother videos, even if your hands shake, using digital video stabilization. *(2, 3, 4)
-â€¢ Instantly launch the camera, even when the phone is locked, by holding down your phoneâ€™s hardware camera button. *1
-â€¢ Rich HDR (High Dynamic Range)*(2,3) lets you shoot now, adjust lighting later.*(4,5,6)
-â€¢ Motion blur is automatically reduced, for sharper, more detailed photos. *6
-â€¢ Record stunningly smooth slow-motion videos at 120fps at 720p resolution. *(5,6)
-â€¢ With 4K video recording, save high-quality photos from your videos. *(5,6)
-â€¢ Preserve every detail with Digital negative files (DNG or raw files), if you want to fine tune images with advanced editing software later.
+ Capture more of the scene with panorama on phones and tablets. *(7)
+ Transform your static photos into living images that move, then play them back in the Photos app on any Windows 10 device. *(4,5,6)
+ Shoot smoother videos, even if your hands shake, using digital video stabilization. *(2, 3, 4)
+ Instantly launch the camera, even when the phone is locked, by holding down your phoneâ€™s hardware camera button. *1
+ Rich HDR (High Dynamic Range)*(2,3) lets you shoot now, adjust lighting later.*(4,5,6)
+ Motion blur is automatically reduced, for sharper, more detailed photos. *6
+ Record stunningly smooth slow-motion videos at 120fps at 720p resolution. *(5,6)
+ With 4K video recording, save high-quality photos from your videos. *(5,6)
+ Preserve every detail with Digital negative files (DNG or raw files), if you want to fine tune images with advanced editing software later.
 
 *1 Requires hardware camera button
 *2 Available on HTC One M8
@@ -4713,19 +4669,19 @@ With your subscription, youâ€™ll have access to Huluâ€™s full library 
 
 Subscription required. New to Hulu? Try it FREE.
 
-â€¢ Search and play your favorite shows using Cortana voice search both before entering the app and in it.
+ Search and play your favorite shows using Cortana voice search both before entering the app and in it.
 
-â€¢ Receive Live Tile updates on the hottest shows.
+ Receive Live Tile updates on the hottest shows.
 
-â€¢ Resume watching from where you left off on your supported devices.
+ Resume watching from where you left off on your supported devices.
 
-â€¢ Add your favorite videos to your queue for instant access.
+ Add your favorite videos to your queue for instant access.
 
-â€¢ Search for content across episodes, clips, and movies.
+ Search for content across episodes, clips, and movies.
 
-â€¢ Watch over WiFi, 3G, and 4G.
+ Watch over WiFi, 3G, and 4G.
 
-â€¢ Plans starting at $7.99/month. SHOWTIMEÂ® available for an additional $8.99/month.</description>
+ Plans starting at $7.99/month. SHOWTIMEÂ® available for an additional $8.99/month.</description>
     <package>https://github.com/draydenthemiiyt-makerbackup/packages/releases/download/APPX/HuluLLC.HuluPlus_2.3.20.0_neutral_._fphbd361v8tya.AppxBundle</package>
     <screenshot1>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files2/hulu_scr1.png</screenshot1>
     <screenshot2>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files2/hulu_scr2.png</screenshot2>
@@ -5005,12 +4961,12 @@ So unleash your Downloads folder onto Opener - you'll love it.</description>
 The basic version is completely ad-free and additional features can be bought via an in-app purchase.
 
 PRO-Features
-â€¢ Beeper for signal strength
-â€¢ Connect to networks
-â€¢ Use filters
-â€¢ Prevent screen timeout
-â€¢ Lock screen rotation
-â€¢ Change signal strength borders</description>
+ Beeper for signal strength
+ Connect to networks
+ Use filters
+ Prevent screen timeout
+ Lock screen rotation
+ Change signal strength borders</description>
     <package>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files2/19965MATTHAFNER.WIFIANALYZER_2.8.3.0_neutral_~_gs5k5vmxr2ste.AppxBundle</package>
     <screenshot1>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files2/wifianaylzer_scr1.png</screenshot1>
     <screenshot2>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files2/wifianaylzer_scr2.png</screenshot2>
@@ -5065,19 +5021,19 @@ Have questions, problems, or feedback? Check out help.vine.co or Tweet to us @vi
 
 Powered by the Music Genome ProjectÂ®, the most comprehensive music analysis ever undertaken, Pandora gives you personalized radio that plays what you love and continually evolves with your tastes.
 
-â€¢ Create stations from songs, artists, genres, or comedians
-â€¢ Browse hundreds of curated genre stations to find the perfect match for your mood or activity
-â€¢ Personalize your stations by thumbing tracks up or down.
-â€¢ See whatâ€™s playing by glancing at your Pandora Live Tile.
-â€¢ Use voice commands with Cortana, your personal assistant
-â€¢ When you create a Pandora account, your stations are accessible to you on desktop, mobile, TVs and home devices, or in your car.
+ Create stations from songs, artists, genres, or comedians
+ Browse hundreds of curated genre stations to find the perfect match for your mood or activity
+ Personalize your stations by thumbing tracks up or down.
+ See whatâ€™s playing by glancing at your Pandora Live Tile.
+ Use voice commands with Cortana, your personal assistant
+ When you create a Pandora account, your stations are accessible to you on desktop, mobile, TVs and home devices, or in your car.
 
 
 Exclusive features for Xbox One:
 
-â€¢ Set your own soundtrack with uninterrupted personalized background music on the Xbox while you game
-â€¢ Easily pause and resume your music or skip to the next song via the guide
-â€¢ Adjust the volume between your game and Pandora music for the perfect balance
+ Set your own soundtrack with uninterrupted personalized background music on the Xbox while you game
+ Easily pause and resume your music or skip to the next song via the guide
+ Adjust the volume between your game and Pandora music for the perfect balance
 
 Pandora is currently available in US, Australia and New Zealand only.</description>
     <package>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files2/PandoraMediaInc.29680B314EFC2_10.0.7.1000_neutral_~_n619g4d5j0fnw.AppxBundle</package>
@@ -5153,11 +5109,11 @@ Download the free Jabong app for windows 10 and shop for shoes, clothes, dresses
 
 With the free Jabong app, you can now shop anywhere and everywhere in India. Download it and let it be a one stop for all your online fashion and lifestyle shopping in India. Choose from 1200+ brands offering more than 1,30,000+ products across the following categories:
 
-â€¢ Women: Clothes (Dresses, Tops, T Shirts, Kurtis, Kurtas, Shorts, Trousers, Jeans, Skirts etc), Ethnic Wear (Kurtas, Sarees etc), Bags, Shoes, Jewellery, Watches, Sunglasses, Beauty Products etc.
-â€¢ Men: Shoes, Clothes (Shirts, Jeans, Trousers, T-Shirts etc), Ethnic Wear (Kurtas, Pyjamas etc), Winter Wear, Bags, Sunglasses, Watches, Jewellery, Fragrances etc.
-â€¢ Kids: Clothes (T shirts, tops, Jeans, Dresses, Trousers, Kurtas etc), Shoes, Watches, Bags, Jewellery etc.
-â€¢ Home Fashion: Bed Linen, Cushions, Curtains, Carpets, Bath Linen, Kitchen and Table Linen etc.
-â€¢ Sports: Shoes, Apparel and Accessories for Football, Basketball, Cricket, Tennis, Running and Training
+ Women: Clothes (Dresses, Tops, T Shirts, Kurtis, Kurtas, Shorts, Trousers, Jeans, Skirts etc), Ethnic Wear (Kurtas, Sarees etc), Bags, Shoes, Jewellery, Watches, Sunglasses, Beauty Products etc.
+ Men: Shoes, Clothes (Shirts, Jeans, Trousers, T-Shirts etc), Ethnic Wear (Kurtas, Pyjamas etc), Winter Wear, Bags, Sunglasses, Watches, Jewellery, Fragrances etc.
+ Kids: Clothes (T shirts, tops, Jeans, Dresses, Trousers, Kurtas etc), Shoes, Watches, Bags, Jewellery etc.
+ Home Fashion: Bed Linen, Cushions, Curtains, Carpets, Bath Linen, Kitchen and Table Linen etc.
+ Sports: Shoes, Apparel and Accessories for Football, Basketball, Cricket, Tennis, Running and Training
 
 Browse the free Jabong mobile app and enjoy the following features:
 Ã˜ 100% Trust: Secure processing of transactions, complete buyer protection and safe payment options
@@ -5546,10 +5502,10 @@ Are you ready to dash through an adventure path with square.
 The more you go the more saga the game becomes.
 
 Game Features
-â€¢ Rhythm-based Levels with amazing soundtracks! 
-â€¢ Varied your characters opened, no need unlock!
-â€¢ Clean and colorful graphics.
-â€¢ Phone and Tablet support.</description>
+ Rhythm-based Levels with amazing soundtracks! 
+ Varied your characters opened, no need unlock!
+ Clean and colorful graphics.
+ Phone and Tablet support.</description>
     <package>https://github.com/draydenthemiiyt-makerbackup/store2/releases/download/sup/9741BabyStepStudio.GeometryJump-ImpossibleDash_1.1.4.0_neutral_._pd4zc2nfw6kwj.AppxBundle</package>
     <screenshot1>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files2/geometryjump_scr1.png</screenshot1>
     <screenshot2>https://raw.githubusercontent.com/draydenthemiiyt-maker/10-Store/refs/heads/main/files2/geometryjump_scr2.png</screenshot2>
